@@ -34,9 +34,9 @@ def arima_plot(series, steps, name, order):
 
     # plot
     plt.figure(figsize=(15,5))
-    plt.plot(train_steps, train, label="Treino")
-    plt.plot(test_steps, test, label="Teste")
-    plt.plot(forecast_series, label="Previsão ARIMA", color="red")
+    plt.plot(train_steps, train, label="Treino", color="orange")
+    plt.plot(test_steps, test, label="Teste", color="blue")
+    plt.plot(forecast_series, label="Previsão ARIMA", color="green")
 
     plt.title(f"{name} - ARIMA{order}")
     plt.xlabel("step")
@@ -44,7 +44,7 @@ def arima_plot(series, steps, name, order):
     plt.legend()
     plt.grid(True)
     plt.tight_layout()
-    plt.show()
+    plt.savefig("resultado-arima.png")
 
 
 # EXECUÇÃO
