@@ -1,7 +1,8 @@
 # implementacao do algoritmo usando:
 # feedback de erro (AARIMA) + ARIMA + Box-Cox
 
-from sklearn.metrics import mean_absolute_error, mean_squared_error
+from statsmodels.tsa.stattools import adfuller
+#from sklearn.metrics import mean_absolute_error, mean_squared_error
 from statsmodels.tsa.arima.model import ARIMA
 from scipy.special import inv_boxcox
 import matplotlib.pyplot as plt
@@ -9,12 +10,12 @@ from scipy.stats import boxcox
 import pandas as pd
 import numpy as np
 
-CAMINHO_CSV = "../../gerador_ram/com_timestamp/csv/descending.csv"
+CAMINHO_CSV = "../../gerador_ram/com_timestamp/csv/neg-exp.csv"
 DIVISAO_TREINO_TESTE = 0.8
 
-P = 0
-D = 1
-Q = 0
+P = 1
+D = 2
+Q = 2
 ordem= (P, D, Q)
 
 df = pd.read_csv(CAMINHO_CSV) # carrega dataset
@@ -55,7 +56,7 @@ def arimaPlot(serie, nome, ordem):
     for i in range(len(teste)):
         # treina modelo com historico atual
         modelo = ARIMA(historicoBox, order=ordem)
-        modeloFit = modelo.fit()
+        modeloFit = modelo.fit(method_kwargs={'maxiter': 10000})
 
         # previsao de 1 passo a frente
         previsao = modeloFit.forecast(steps=1)[0]
@@ -96,10 +97,13 @@ def arimaPlot(serie, nome, ordem):
     seriePrevisao = pd.Series(previsoes, index=teste.index)
 
     # analisa metricas de erro
-    mae = mean_absolute_error(teste, seriePrevisao)
-    rmse = np.sqrt(mean_squared_error(teste, seriePrevisao))
-    mape = np.mean(np.abs((teste.values - seriePrevisao.values) / teste.values)) * 100
-    print(f"{nome} - MAE: {mae:.2f}, RMSE: {rmse:.2f}, MAPE: {mape:.2f}%")
+    #mae = mean_absolute_error(teste.to_numpy(), seriePrevisao.to_numpy())
+    #rmse = np.sqrt(mean_squared_error(teste.to_numpy(), seriePrevisao.to_numpy()))
+    #mape = np.mean(np.abs((teste.values - seriePrevisao.values) / teste.values)) * 100
+    #print(f"{nome} - MAE: {mae:.2f}, RMSE: {rmse:.2f}, MAPE: {mape:.2f}%")
+    
+    result = adfuller(serie)
+    print(result[1])  # p-value
     
     plt.figure(figsize=(15, 5))
     plt.plot(treino.index, treino, label="treino", alpha=0.8)

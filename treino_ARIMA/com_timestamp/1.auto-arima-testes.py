@@ -4,7 +4,7 @@ import pandas as pd
 
 warnings.filterwarnings("ignore")  # evita muitos avisos do auto arima
 
-CAMINHO_CSV = "../../gerador_ram/com_timestamp/csv/descending.csv"
+CAMINHO_CSV = "../../gerador_ram/com_timestamp/csv/pos-exp.csv"
 
 df = pd.read_csv(CAMINHO_CSV)                            # carrega dataset
 df["timestamp_sec"] = pd.to_numeric(df["timestamp_sec"]) # converte timestamp para numerico
@@ -23,7 +23,7 @@ def escolherArima(nome, serie, maxP=15, maxQ=15):
         max_p=maxP,
         max_q=maxQ,
         max_d=2,
-        maxiter=200,
+        maxiter=1000,
         d=None,  
         test="kpss",
         seasonal=False,  
@@ -32,7 +32,7 @@ def escolherArima(nome, serie, maxP=15, maxQ=15):
         with_intercept="auto",
         information_criterion="aic",
         error_action="ignore",
-        suppress_warnings=True
+        suppress_warnings=False
     )
 
     # mostra melhor modelo
