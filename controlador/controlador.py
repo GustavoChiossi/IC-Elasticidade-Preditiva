@@ -5,7 +5,7 @@
 from collections import deque
 from algoritmo import *
 from coletor import *
-from gerador import *
+from controlador.gerador_ram_final.gerador import *
 import docker, time
 
 EXEC_AARIMA = 30
