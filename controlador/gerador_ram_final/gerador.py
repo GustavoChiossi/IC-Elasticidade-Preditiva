@@ -39,19 +39,42 @@ while current_time < end_time:
     # calcular MB baseado no padrao
     if PADRAO == "ascending":
         mb = MAX_MB * progresso
+   
     elif PADRAO == "descending":
         mb = MAX_MB * (1 - progresso)
+   
     elif PADRAO == "wave":
         mb = MAX_MB * (0.5 + 0.5 * math.sin(4 * math.pi * progresso))
+    
     elif PADRAO == "pos_exp":
-        mb = MAX_MB * (math.exp(K * progresso) - 1) / (math.exp(K) - 1)
+        ciclos = 3
+        ciclo = (progresso * ciclos) % 1
+        # 80% do ciclo sobe exponencial
+        if ciclo < 0.8:
+            x = ciclo / 0.8
+            mb = MAX_MB * ((math.exp(K*x)-1) / (math.exp(K)-1))
+        # 20% cai reto
+        else:
+            x = (ciclo-0.8)/0.2
+            mb = MAX_MB*(1-x)
+    
     elif PADRAO == "neg_exp":
-        mb = MAX_MB * (math.exp(-K * progresso) - math.exp(-K)) / (1 - math.exp(-K))
+        ciclos = 3
+        ciclo = (progresso * ciclos) % 1
+        if ciclo < 0.8:
+            x = ciclo / 0.8
+            mb = MAX_MB * (math.exp(-K * progresso) - math.exp(-K)) / (1 - math.exp(-K))
+        else:
+            x = (ciclo-0.8)/0.2
+            mb = MAX_MB * (1-x)
+            
     elif PADRAO == "partial_random":
         cycle_num = int(progresso * (DURATION / 20))
         mb = MAX_MB * 0.6 if cycle_num % 2 == 0 else random.uniform(0, MAX_MB)
+    
     elif PADRAO == "total_random":
         mb = random.uniform(0, MAX_MB)
+    
     else:
         raise ValueError("Parâmetro inválido")
     
