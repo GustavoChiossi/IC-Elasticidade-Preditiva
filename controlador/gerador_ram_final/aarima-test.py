@@ -9,8 +9,8 @@ import numpy as np
 import warnings
 
 DIVISAO_TREINO_TESTE = 0.8
-CAMINHO_CSV = "../../controlador/gerador_ram_final/pos-exp.csv"
-#CAMINHO_CSV = "../../controlador/gerador_ram_final/neg-exp.csv"
+#CAMINHO_CSV = "../../controlador/gerador_ram_final/resultados/pos-exp.csv"
+CAMINHO_CSV = "../../controlador/gerador_ram_final/resultados/neg-exp.csv"
 
 warnings.filterwarnings("ignore")
 df = pd.read_csv(CAMINHO_CSV)
@@ -51,51 +51,48 @@ def transformar_boxcox(valor, lmbda):
         return np.log(valor)
     return (valor ** lmbda - 1) / lmbda
 
-def arimaPlot(serie, nome, ordem):
-    P, D, Q = ordem
+def arimaPlot(serie, nome):
     n = len(serie)
     indiceDivisao = int(n * DIVISAO_TREINO_TESTE)
     treino = serie.iloc[:indiceDivisao]
     teste = serie.iloc[indiceDivisao:]
     treinoBox, lambdaBox, offset = aplicar_boxcox(treino)
+    ordem = escolherArima(treinoBox)
+    
+    print(f"Ordem escolhida para {nome}: {ordem}")
+    
+    P, D, Q = ordem
     historico = list(treino.values)
     historicoBox = list(treinoBox.values)
     previsoesBox = []
-
+    
     for i in range(len(teste)):
         modelo = ARIMA(historicoBox, order=ordem)
         modeloFit = modelo.fit(method_kwargs={"maxiter": 10000})
         previsao = modeloFit.forecast(steps=1)[0]
         valorReal = teste.values[i] + offset
         real = transformar_boxcox(valorReal, lambdaBox)
-
+    
         if D == 0:
             if len(historicoBox) >= 2:
-                y_t = historicoBox[-1]
-                y_t1 = historicoBox[-2]
-                ajuste = 0.5 * (y_t - y_t1)
+                ajuste = 0.5 * (historicoBox[-1] - historicoBox[-2])
             else:
                 ajuste = 0
-
         else:
             if len(historicoBox) >= 3:
-                y_t = historicoBox[-1]
-                y_t1 = historicoBox[-2]
-                y_t2 = historicoBox[-3]
-                ajuste = 0.5 * (y_t - 2 * y_t1 + y_t2)
+                ajuste = 0.5 * (historicoBox[-1] - 2*historicoBox[-2] + historicoBox[-3])
             else:
                 ajuste = 0
-
+        
         previsaoCorrigida = previsao + ajuste
-        valorRealOriginal = teste.values[i]
-        historico.append(valorRealOriginal)
+        historico.append(teste.values[i])
         historicoBox.append(real)
         previsoesBox.append(previsaoCorrigida)
-
+    
     previsoes = inv_boxcox(np.array(previsoesBox), lambdaBox) - offset
     seriePrevisao = pd.Series(previsoes, index=teste.index)
-
-    plt.figure(figsize=(15, 5))
+    
+    plt.figure(figsize=(15,5))
     plt.plot(treino.index, treino, label="treino")
     plt.plot(teste.index, teste, label="teste")
     plt.plot(seriePrevisao.index, seriePrevisao.values, label="previsao", ls="--")
@@ -108,7 +105,4 @@ def arimaPlot(serie, nome, ordem):
     plt.close()
 
 if __name__ == "__main__":
-    serieBox, lambdaBox, offset = aplicar_boxcox(serie)
-    ordem = escolherArima(serieBox)
-    print("\nOrdem escolhida:", ordem)
-    arimaPlot(serie, "AARIMA + BOXCOX", ordem)
+    arimaPlot(serie, "AARIMA + BOXCOX")
