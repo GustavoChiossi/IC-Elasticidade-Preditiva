@@ -1,12 +1,12 @@
 FROM python:3.11-slim
 
-RUN pip install psutil matplotlib
+RUN pip install psutil
 COPY gerador.py /app/
 WORKDIR /app
 
 ENV PADRAO=wave
-ENV MAX_MB=850
-ENV DURATION=180      
-ENV INTERVAL=1.0      
+ENV MAX_MB=900
+ENV DURACAO=300      
+ENV INTERVALO=1.0      
 
 CMD ["python", "gerador.py"]
