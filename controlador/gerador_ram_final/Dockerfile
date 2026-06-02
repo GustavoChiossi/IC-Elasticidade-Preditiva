@@ -1,6 +1,6 @@
 FROM python:3.11-slim
 
-RUN pip install psutil
+RUN pip install psutil matplotlib
 COPY gerador.py /app/
 WORKDIR /app
 
