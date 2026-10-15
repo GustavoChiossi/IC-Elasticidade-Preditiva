@@ -1,0 +1,33 @@
+====================================================================
+  RELATÓRIO DE MÉTRICAS — CONTROLADOR PREDITIVO DE ELASTICIDADE
+====================================================================
+  Arquivo de origem : /home/gustavo/faculdade/ic/elasticidade-preditiva/controlador/logs/carga-cpu/ts_20260924_112428.jsonl
+  Gerado em         : 2026-09-24T11:39:35
+  Duração da sessão : 893.0s
+
+--------------------------------------------------------------------
+  [ CPU ]
+--------------------------------------------------------------------
+
+  Erro de previsão:
+    -- Todas as amostras (324 pares previsão→real) --
+    SMAPE           : 15.126 %
+    MAE             : 6.453 %
+    RMSE            : 8.423 %
+    Mediana erro abs: 5.278 %
+
+    ATENÇÃO: 144 previsão(ões) outlier detectada(s).
+    -- Robustas (outliers excluídos) --
+    SMAPE : 25.181 %  MAE: 5.726 %  RMSE: 7.680 %
+
+  Provisionamento de recursos:
+    Over-provisioning médio : 60.52 % (em 399 de 399 ciclos)
+    Under-provisioning médio: 0.00 % (em 0 de 399 ciclos)
+
+  Latência de escala (Docker):
+    Média: 41.29ms  Mín: 12.08ms  Máx: 247.68ms  (n=157)
+
+  Recalibrações do modelo:
+    Total: 8  Intervalo médio: 113.6s
+
+====================================================================

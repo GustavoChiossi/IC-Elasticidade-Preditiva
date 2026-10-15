@@ -1,0 +1,576 @@
+================================================================================
+  SESSÃO INICIADA  2026-09-24T14:24:28+00:00
+  Container: carga-cpu
+================================================================================
+
+[2026-09-24T14:24:30+00:00] COLETA      CPU=   0.00% Prevista=       —% Limite=400.0%
+[2026-09-24T14:24:32+00:00] COLETA      CPU= 194.34% Prevista=       —% Limite=400.0%
+[2026-09-24T14:24:34+00:00] COLETA      CPU= 202.40% Prevista=       —% Limite=400.0%
+[2026-09-24T14:24:36+00:00] COLETA      CPU= 211.80% Prevista=       —% Limite=400.0%
+[2026-09-24T14:24:38+00:00] COLETA      CPU= 216.91% Prevista=       —% Limite=400.0%
+[2026-09-24T14:24:40+00:00] COLETA      CPU= 229.55% Prevista=       —% Limite=400.0%
+[2026-09-24T14:24:42+00:00] COLETA      CPU= 231.75% Prevista=       —% Limite=400.0%
+[2026-09-24T14:24:44+00:00] COLETA      CPU= 239.96% Prevista=       —% Limite=400.0%
+[2026-09-24T14:24:46+00:00] COLETA      CPU= 246.17% Prevista=       —% Limite=400.0%
+[2026-09-24T14:24:48+00:00] COLETA      CPU= 252.71% Prevista=       —% Limite=400.0%
+[2026-09-24T14:24:50+00:00] COLETA      CPU= 256.84% Prevista=       —% Limite=400.0%
+[2026-09-24T14:24:52+00:00] COLETA      CPU= 262.30% Prevista=       —% Limite=400.0%
+[2026-09-24T14:24:54+00:00] COLETA      CPU= 272.63% Prevista=       —% Limite=400.0%
+[2026-09-24T14:24:56+00:00] COLETA      CPU= 275.53% Prevista=       —% Limite=400.0%
+[2026-09-24T14:24:58+00:00] COLETA      CPU= 281.96% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:00+00:00] COLETA      CPU= 285.97% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:02+00:00] COLETA      CPU= 293.40% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:04+00:00] COLETA      CPU= 296.64% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:06+00:00] COLETA      CPU= 306.14% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:08+00:00] COLETA      CPU= 301.58% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:10+00:00] COLETA      CPU= 307.16% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:12+00:00] COLETA      CPU= 314.65% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:14+00:00] COLETA      CPU= 311.52% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:16+00:00] COLETA      CPU= 312.80% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:18+00:00] COLETA      CPU= 317.92% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:20+00:00] COLETA      CPU= 317.96% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:22+00:00] COLETA      CPU= 317.96% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:24+00:00] COLETA      CPU= 320.57% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:26+00:00] COLETA      CPU= 318.66% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:28+00:00] COLETA      CPU= 318.34% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:30+00:00] COLETA      CPU= 318.11% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:32+00:00] COLETA      CPU= 314.53% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:34+00:00] COLETA      CPU= 313.95% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:36+00:00] COLETA      CPU= 311.69% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:38+00:00] COLETA      CPU= 308.37% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:40+00:00] COLETA      CPU= 316.14% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:42+00:00] COLETA      CPU= 330.51% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:44+00:00] COLETA      CPU= 326.93% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:46+00:00] COLETA      CPU= 322.81% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:49+00:00] COLETA      CPU= 323.19% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:51+00:00] COLETA      CPU= 314.71% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:53+00:00] COLETA      CPU= 311.77% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:55+00:00] COLETA      CPU= 303.63% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:57+00:00] COLETA      CPU= 301.40% Prevista=       —% Limite=400.0%
+[2026-09-24T14:25:59+00:00] COLETA      CPU= 290.56% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:01+00:00] COLETA      CPU= 282.68% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:03+00:00] COLETA      CPU= 276.23% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:05+00:00] COLETA      CPU= 267.11% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:08+00:00] RECALIB(CPU) Ciclo=50  Nova ordem ARIMA=(1, 2, 1)
+[2026-09-24T14:26:08+00:00] COLETA      CPU= 267.43% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:10+00:00] COLETA      CPU= 246.07% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:12+00:00] COLETA      CPU= 244.28% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:14+00:00] COLETA      CPU= 238.94% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:16+00:00] COLETA      CPU= 227.93% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:18+00:00] COLETA      CPU= 219.20% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:20+00:00] COLETA      CPU= 208.15% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:25+00:00] COLETA      CPU= 201.71% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:27+00:00] COLETA      CPU= 175.68% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:29+00:00] COLETA      CPU= 165.03% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:31+00:00] COLETA      CPU= 156.80% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:33+00:00] COLETA      CPU= 156.80% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:35+00:00] COLETA      CPU= 148.28% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:37+00:00] COLETA      CPU= 140.01% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:39+00:00] COLETA      CPU= 130.85% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:41+00:00] COLETA      CPU= 123.25% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:43+00:00] COLETA      CPU= 114.96% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:45+00:00] COLETA      CPU= 106.30% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:47+00:00] COLETA      CPU=  98.29% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:49+00:00] COLETA      CPU=  90.71% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:51+00:00] COLETA      CPU=  83.10% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:53+00:00] COLETA      CPU=  76.05% Prevista=       —% Limite=400.0%
+[2026-09-24T14:26:55+00:00] COLETA      CPU=  69.04% Prevista=       —% Limite=400.0%
+[2026-09-24T14:27:00+00:00] COLETA      CPU=  61.93% Prevista=       —% Limite=400.0%
+[2026-09-24T14:27:02+00:00] COLETA      CPU=  53.45% Prevista=       —% Limite=400.0%
+[2026-09-24T14:27:04+00:00] COLETA      CPU=  40.35% Prevista=       —% Limite=400.0%
+[2026-09-24T14:27:06.198+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=35.59%  Prevista=38.47%  400 → 360%  (Δ -40.0%)  [Docker: 45.1ms]
+[2026-09-24T14:27:06+00:00] COLETA      CPU=  35.59% Prevista=   38.47% Limite=360.0%
+[2026-09-24T14:27:08.303+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=27.56%  Prevista=14.26%  360 → 320%  (Δ -40.0%)  [Docker: 15.9ms]
+[2026-09-24T14:27:08+00:00] COLETA      CPU=  27.56% Prevista=   14.26% Limite=320.0%
+[2026-09-24T14:27:10.401+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=23.33%  Prevista=21.33%  320 → 280%  (Δ -40.0%)  [Docker: 21.9ms]
+[2026-09-24T14:27:10+00:00] COLETA      CPU=  23.33% Prevista=   21.33% Limite=280.0%
+[2026-09-24T14:27:12.456+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=18.74%  Prevista=14.16%  280 → 240%  (Δ -40.0%)  [Docker: 13.5ms]
+[2026-09-24T14:27:12+00:00] COLETA      CPU=  18.74% Prevista=   14.16% Limite=240.0%
+[2026-09-24T14:27:14.493+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=14.79%  Prevista=10.08%  240 → 200%  (Δ -40.0%)  [Docker: 14.3ms]
+[2026-09-24T14:27:14+00:00] COLETA      CPU=  14.79% Prevista=   10.08% Limite=200.0%
+[2026-09-24T14:27:16.545+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=11.60%  Prevista=10.17%  200 → 160%  (Δ -40.0%)  [Docker: 15.8ms]
+[2026-09-24T14:27:16+00:00] COLETA      CPU=  11.60% Prevista=   10.17% Limite=160.0%
+[2026-09-24T14:27:18.654+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=8.91%  Prevista=10.00%  160 → 120%  (Δ -40.0%)  [Docker: 16.4ms]
+[2026-09-24T14:27:18+00:00] COLETA      CPU=   8.91% Prevista=   10.00% Limite=120.0%
+[2026-09-24T14:27:20.706+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=6.27%  Prevista=10.00%  120 → 80%  (Δ -40.0%)  [Docker: 14.7ms]
+[2026-09-24T14:27:20+00:00] COLETA      CPU=   6.27% Prevista=   10.00% Limite=80.0%
+[2026-09-24T14:27:22.756+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=4.28%  Prevista=10.00%  80 → 40%  (Δ -40.0%)  [Docker: 18.0ms]
+[2026-09-24T14:27:22+00:00] COLETA      CPU=   4.28% Prevista=   10.00% Limite=40.0%
+[2026-09-24T14:27:24.807+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=2.52%  Prevista=10.00%  40 → 20%  (Δ -20.0%)  [Docker: 14.4ms]
+[2026-09-24T14:27:24+00:00] COLETA      CPU=   2.52% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:27:26+00:00] COLETA      CPU=   1.32% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:27:28+00:00] COLETA      CPU=   0.56% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:27:30+00:00] COLETA      CPU=   0.26% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:27:35+00:00] COLETA      CPU=   0.39% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:27:37+00:00] COLETA      CPU=   2.61% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:27:39+00:00] COLETA      CPU=   4.28% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:27:41+00:00] COLETA      CPU=   6.32% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:27:44+00:00] COLETA      CPU=   8.83% Prevista=   11.95% Limite=20.0%
+[2026-09-24T14:27:46+00:00] COLETA      CPU=  11.79% Prevista=   14.37% Limite=20.0%
+[2026-09-24T14:27:48+00:00] COLETA      CPU=  15.31% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:27:50.593+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=20.82%  Prevista=25.19%  20 → 40%  (Δ +20.0%)  [Docker: 18.7ms]
+[2026-09-24T14:27:50+00:00] COLETA      CPU=  20.82% Prevista=   25.19% Limite=40.0%
+[2026-09-24T14:27:52+00:00] COLETA      CPU=  22.93% Prevista=   23.93% Limite=40.0%
+[2026-09-24T14:27:54.922+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=30.36%  Prevista=37.01%  40 → 60%  (Δ +20.0%)  [Docker: 18.2ms]
+[2026-09-24T14:27:54+00:00] COLETA      CPU=  30.36% Prevista=   37.01% Limite=60.0%
+[2026-09-24T14:27:57+00:00] COLETA      CPU=  35.48% Prevista=   38.42% Limite=60.0%
+[2026-09-24T14:27:59+00:00] RECALIB(CPU) Ciclo=100  Nova ordem ARIMA=(0, 2, 0)
+[2026-09-24T14:27:59+00:00] COLETA      CPU=  40.42% Prevista=   45.36% Limite=60.0%
+[2026-09-24T14:28:01+00:00] COLETA      CPU=  46.69% Prevista=   53.88% Limite=60.0%
+[2026-09-24T14:28:03.491+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=52.36%  Prevista=57.80%  60 → 80%  (Δ +20.0%)  [Docker: 17.3ms]
+[2026-09-24T14:28:03+00:00] COLETA      CPU=  52.36% Prevista=   57.80% Limite=80.0%
+[2026-09-24T14:28:05+00:00] COLETA      CPU=  59.58% Prevista=   67.83% Limite=80.0%
+[2026-09-24T14:28:10+00:00] COLETA      CPU=  65.18% Prevista=   69.97% Limite=80.0%
+[2026-09-24T14:28:12.440+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=76.45%  Prevista=91.38%  80 → 120%  (Δ +40.0%)  [Docker: 13.7ms]
+[2026-09-24T14:28:12+00:00] COLETA      CPU=  76.45% Prevista=   91.38% Limite=120.0%
+[2026-09-24T14:28:14.463+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=80.06%  Prevista=79.62%  120 → 100%  (Δ -20.0%)  [Docker: 15.3ms]
+[2026-09-24T14:28:14+00:00] COLETA      CPU=  80.06% Prevista=   79.62% Limite=100.0%
+[2026-09-24T14:28:16.511+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=98.88%  Prevista=127.81%  100 → 160%  (Δ +60.0%)  [Docker: 33.9ms]
+[2026-09-24T14:28:16+00:00] COLETA      CPU=  98.88% Prevista=  127.81% Limite=160.0%
+[2026-09-24T14:28:18.554+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=102.16%  Prevista=97.22%  160 → 120%  (Δ -40.0%)  [Docker: 33.2ms]
+[2026-09-24T14:28:18+00:00] COLETA      CPU= 102.16% Prevista=   97.22% Limite=120.0%
+[2026-09-24T14:28:20.609+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=114.70%  Prevista=132.74%  120 → 160%  (Δ +40.0%)  [Docker: 45.6ms]
+[2026-09-24T14:28:20+00:00] COLETA      CPU= 114.70% Prevista=  132.74% Limite=160.0%
+[2026-09-24T14:28:22.668+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=117.95%  Prevista=116.38%  160 → 140%  (Δ -20.0%)  [Docker: 46.6ms]
+[2026-09-24T14:28:22+00:00] COLETA      CPU= 117.95% Prevista=  116.38% Limite=140.0%
+[2026-09-24T14:28:24.704+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=130.82%  Prevista=149.30%  140 → 180%  (Δ +40.0%)  [Docker: 23.7ms]
+[2026-09-24T14:28:24+00:00] COLETA      CPU= 130.82% Prevista=  149.30% Limite=180.0%
+[2026-09-24T14:28:26.758+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=139.19%  Prevista=145.24%  180 → 160%  (Δ -20.0%)  [Docker: 39.4ms]
+[2026-09-24T14:28:26+00:00] COLETA      CPU= 139.19% Prevista=  145.24% Limite=160.0%
+[2026-09-24T14:28:28.831+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=150.40%  Prevista=163.30%  160 → 180%  (Δ +20.0%)  [Docker: 55.7ms]
+[2026-09-24T14:28:28+00:00] COLETA      CPU= 150.40% Prevista=  163.30% Limite=180.0%
+[2026-09-24T14:28:30.891+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=158.74%  Prevista=165.63%  180 → 200%  (Δ +20.0%)  [Docker: 49.2ms]
+[2026-09-24T14:28:30+00:00] COLETA      CPU= 158.74% Prevista=  165.63% Limite=200.0%
+[2026-09-24T14:28:32+00:00] COLETA      CPU= 165.42% Prevista=  171.30% Limite=200.0%
+[2026-09-24T14:28:34.955+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=178.36%  Prevista=194.87%  200 → 220%  (Δ +20.0%)  [Docker: 43.7ms]
+[2026-09-24T14:28:34+00:00] COLETA      CPU= 178.36% Prevista=  194.87% Limite=220.0%
+[2026-09-24T14:28:36+00:00] COLETA      CPU= 186.75% Prevista=  192.81% Limite=220.0%
+[2026-09-24T14:28:38+00:00] COLETA      CPU= 189.35% Prevista=  189.01% Limite=220.0%
+[2026-09-24T14:28:41.035+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=199.79%  Prevista=214.51%  220 → 240%  (Δ +20.0%)  [Docker: 42.8ms]
+[2026-09-24T14:28:41+00:00] COLETA      CPU= 199.79% Prevista=  214.51% Limite=240.0%
+[2026-09-24T14:28:46.029+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=212.84%  Prevista=227.45%  240 → 260%  (Δ +20.0%)  [Docker: 19.6ms]
+[2026-09-24T14:28:46+00:00] COLETA      CPU= 212.84% Prevista=  227.45% Limite=260.0%
+[2026-09-24T14:28:48.106+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=227.15%  Prevista=242.31%  260 → 280%  (Δ +20.0%)  [Docker: 66.0ms]
+[2026-09-24T14:28:48+00:00] COLETA      CPU= 227.15% Prevista=  242.31% Limite=280.0%
+[2026-09-24T14:28:50+00:00] COLETA      CPU= 234.57% Prevista=  238.44% Limite=280.0%
+[2026-09-24T14:28:52.203+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=250.20%  Prevista=270.43%  280 → 300%  (Δ +20.0%)  [Docker: 71.0ms]
+[2026-09-24T14:28:52+00:00] COLETA      CPU= 250.20% Prevista=  270.43% Limite=300.0%
+[2026-09-24T14:28:54.255+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=254.14%  Prevista=252.11%  300 → 280%  (Δ -20.0%)  [Docker: 35.1ms]
+[2026-09-24T14:28:54+00:00] COLETA      CPU= 254.14% Prevista=  252.11% Limite=280.0%
+[2026-09-24T14:28:56.313+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=264.19%  Prevista=277.51%  280 → 320%  (Δ +40.0%)  [Docker: 48.2ms]
+[2026-09-24T14:28:56+00:00] COLETA      CPU= 264.19% Prevista=  277.51% Limite=320.0%
+[2026-09-24T14:28:58.338+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=269.13%  Prevista=271.47%  320 → 300%  (Δ -20.0%)  [Docker: 17.6ms]
+[2026-09-24T14:28:58+00:00] COLETA      CPU= 269.13% Prevista=  271.47% Limite=300.0%
+[2026-09-24T14:29:00.358+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=274.56%  Prevista=280.25%  300 → 320%  (Δ +20.0%)  [Docker: 13.0ms]
+[2026-09-24T14:29:00+00:00] COLETA      CPU= 274.56% Prevista=  280.25% Limite=320.0%
+[2026-09-24T14:29:02+00:00] COLETA      CPU= 277.77% Prevista=  279.88% Limite=320.0%
+[2026-09-24T14:29:04.404+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=290.21%  Prevista=307.60%  320 → 340%  (Δ +20.0%)  [Docker: 27.4ms]
+[2026-09-24T14:29:04+00:00] COLETA      CPU= 290.21% Prevista=  307.60% Limite=340.0%
+[2026-09-24T14:29:06+00:00] COLETA      CPU= 295.48% Prevista=  297.08% Limite=340.0%
+[2026-09-24T14:29:08.457+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=309.44%  Prevista=328.10%  340 → 380%  (Δ +40.0%)  [Docker: 32.8ms]
+[2026-09-24T14:29:08+00:00] COLETA      CPU= 309.44% Prevista=  328.10% Limite=380.0%
+[2026-09-24T14:29:10.535+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=316.50%  Prevista=320.04%  380 → 360%  (Δ -20.0%)  [Docker: 38.7ms]
+[2026-09-24T14:29:10+00:00] COLETA      CPU= 316.50% Prevista=  320.04% Limite=360.0%
+[2026-09-24T14:29:12+00:00] COLETA      CPU= 317.20% Prevista=  314.71% Limite=360.0%
+[2026-09-24T14:29:14.598+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=323.33%  Prevista=332.26%  360 → 380%  (Δ +20.0%)  [Docker: 44.7ms]
+[2026-09-24T14:29:14+00:00] COLETA      CPU= 323.33% Prevista=  332.26% Limite=380.0%
+[2026-09-24T14:29:16.640+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=325.34%  Prevista=325.26%  380 → 360%  (Δ -20.0%)  [Docker: 31.2ms]
+[2026-09-24T14:29:16+00:00] COLETA      CPU= 325.34% Prevista=  325.26% Limite=360.0%
+[2026-09-24T14:29:21.621+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=337.85%  Prevista=355.93%  360 → 400%  (Δ +40.0%)  [Docker: 15.5ms]
+[2026-09-24T14:29:21+00:00] COLETA      CPU= 337.85% Prevista=  355.93% Limite=400.0%
+[2026-09-24T14:29:23.672+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=335.22%  Prevista=325.05%  400 → 380%  (Δ -20.0%)  [Docker: 43.8ms]
+[2026-09-24T14:29:23+00:00] COLETA      CPU= 335.22% Prevista=  325.05% Limite=380.0%
+[2026-09-24T14:29:25+00:00] COLETA      CPU= 338.23% Prevista=  344.10% Limite=380.0%
+[2026-09-24T14:29:27+00:00] COLETA      CPU= 327.32% Prevista=  309.76% Limite=380.0%
+[2026-09-24T14:29:29.854+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=335.55%  Prevista=353.62%  380 → 400%  (Δ +20.0%)  [Docker: 84.6ms]
+[2026-09-24T14:29:29+00:00] COLETA      CPU= 335.55% Prevista=  353.62% Limite=400.0%
+[2026-09-24T14:29:31.897+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=335.12%  Prevista=330.35%  400 → 380%  (Δ -20.0%)  [Docker: 16.8ms]
+[2026-09-24T14:29:31+00:00] COLETA      CPU= 335.12% Prevista=  330.35% Limite=380.0%
+[2026-09-24T14:29:33.921+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=341.12%  Prevista=350.44%  380 → 400%  (Δ +20.0%)  [Docker: 16.4ms]
+[2026-09-24T14:29:33+00:00] COLETA      CPU= 341.12% Prevista=  350.44% Limite=400.0%
+[2026-09-24T14:29:35+00:00] COLETA      CPU= 346.61% Prevista=  351.84% Limite=400.0%
+[2026-09-24T14:29:37+00:00] COLETA      CPU= 346.33% Prevista=  343.17% Limite=400.0%
+[2026-09-24T14:29:39.968+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=339.39%  Prevista=329.24%  400 → 380%  (Δ -20.0%)  [Docker: 13.7ms]
+[2026-09-24T14:29:39+00:00] COLETA      CPU= 339.39% Prevista=  329.24% Limite=380.0%
+[2026-09-24T14:29:41+00:00] COLETA      CPU= 335.19% Prevista=  332.33% Limite=380.0%
+[2026-09-24T14:29:44.015+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=341.88%  Prevista=354.17%  380 → 400%  (Δ +20.0%)  [Docker: 31.4ms]
+[2026-09-24T14:29:44+00:00] COLETA      CPU= 341.88% Prevista=  354.17% Limite=400.0%
+[2026-09-24T14:29:46.044+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=338.91%  Prevista=331.15%  400 → 380%  (Δ -20.0%)  [Docker: 20.7ms]
+[2026-09-24T14:29:46+00:00] COLETA      CPU= 338.91% Prevista=  331.15% Limite=380.0%
+[2026-09-24T14:29:48+00:00] COLETA      CPU= 339.26% Prevista=  341.27% Limite=380.0%
+[2026-09-24T14:29:50+00:00] RECALIB(CPU) Ciclo=150  Nova ordem ARIMA=(1, 2, 0)
+[2026-09-24T14:29:50+00:00] COLETA      CPU= 336.20% Prevista=  333.62% Limite=380.0%
+[2026-09-24T14:29:55+00:00] COLETA      CPU= 330.15% Prevista=  324.55% Limite=380.0%
+[2026-09-24T14:29:57.623+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=320.18%  Prevista=310.89%  380 → 360%  (Δ -20.0%)  [Docker: 54.4ms]
+[2026-09-24T14:29:57+00:00] COLETA      CPU= 320.18% Prevista=  310.89% Limite=360.0%
+[2026-09-24T14:29:59+00:00] COLETA      CPU= 312.29% Prevista=  304.24% Limite=360.0%
+[2026-09-24T14:30:01.685+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=299.45%  Prevista=287.53%  360 → 340%  (Δ -20.0%)  [Docker: 25.9ms]
+[2026-09-24T14:30:01+00:00] COLETA      CPU= 299.45% Prevista=  287.53% Limite=340.0%
+[2026-09-24T14:30:03+00:00] COLETA      CPU= 291.05% Prevista=  282.07% Limite=340.0%
+[2026-09-24T14:30:05+00:00] COLETA      CPU= 298.65% Prevista=  304.29% Limite=340.0%
+[2026-09-24T14:30:07+00:00] COLETA      CPU= 295.85% Prevista=  294.56% Limite=340.0%
+[2026-09-24T14:30:09.834+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=280.88%  Prevista=267.05%  340 → 320%  (Δ -20.0%)  [Docker: 49.1ms]
+[2026-09-24T14:30:09+00:00] COLETA      CPU= 280.88% Prevista=  267.05% Limite=320.0%
+[2026-09-24T14:30:11.932+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=269.42%  Prevista=258.04%  320 → 300%  (Δ -20.0%)  [Docker: 80.5ms]
+[2026-09-24T14:30:11+00:00] COLETA      CPU= 269.42% Prevista=  258.04% Limite=300.0%
+[2026-09-24T14:30:13+00:00] COLETA      CPU= 269.14% Prevista=  268.56% Limite=300.0%
+[2026-09-24T14:30:15+00:00] COLETA      CPU= 258.02% Prevista=  247.59% Limite=300.0%
+[2026-09-24T14:30:17+00:00] COLETA      CPU= 254.99% Prevista=  251.75% Limite=300.0%
+[2026-09-24T14:30:20.056+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=245.01%  Prevista=235.44%  300 → 280%  (Δ -20.0%)  [Docker: 71.2ms]
+[2026-09-24T14:30:20+00:00] COLETA      CPU= 245.01% Prevista=  235.44% Limite=280.0%
+[2026-09-24T14:30:22.143+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=233.05%  Prevista=221.44%  280 → 260%  (Δ -20.0%)  [Docker: 72.5ms]
+[2026-09-24T14:30:22+00:00] COLETA      CPU= 233.05% Prevista=  221.44% Limite=260.0%
+[2026-09-24T14:30:24+00:00] COLETA      CPU= 232.22% Prevista=  231.17% Limite=260.0%
+[2026-09-24T14:30:26+00:00] COLETA      CPU= 224.53% Prevista=  217.22% Limite=260.0%
+[2026-09-24T14:30:31.150+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=216.09%  Prevista=207.82%  260 → 240%  (Δ -20.0%)  [Docker: 62.6ms]
+[2026-09-24T14:30:31+00:00] COLETA      CPU= 216.09% Prevista=  207.82% Limite=240.0%
+[2026-09-24T14:30:33.238+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=192.47%  Prevista=170.09%  240 → 220%  (Δ -20.0%)  [Docker: 70.5ms]
+[2026-09-24T14:30:33+00:00] COLETA      CPU= 192.47% Prevista=  170.09% Limite=220.0%
+[2026-09-24T14:30:35.285+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=181.67%  Prevista=171.08%  220 → 200%  (Δ -20.0%)  [Docker: 33.4ms]
+[2026-09-24T14:30:35+00:00] COLETA      CPU= 181.67% Prevista=  171.08% Limite=200.0%
+[2026-09-24T14:30:37+00:00] COLETA      CPU= 174.05% Prevista=  166.66% Limite=200.0%
+[2026-09-24T14:30:39+00:00] COLETA      CPU= 168.53% Prevista=  163.17% Limite=200.0%
+[2026-09-24T14:30:41.397+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=159.13%  Prevista=149.88%  200 → 180%  (Δ -20.0%)  [Docker: 33.0ms]
+[2026-09-24T14:30:41+00:00] COLETA      CPU= 159.13% Prevista=  149.88% Limite=180.0%
+[2026-09-24T14:30:43+00:00] COLETA      CPU= 149.79% Prevista=  140.73% Limite=180.0%
+[2026-09-24T14:30:45.463+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=142.93%  Prevista=136.35%  180 → 160%  (Δ -20.0%)  [Docker: 41.9ms]
+[2026-09-24T14:30:45+00:00] COLETA      CPU= 142.93% Prevista=  136.35% Limite=160.0%
+[2026-09-24T14:30:47+00:00] COLETA      CPU= 132.02% Prevista=  121.29% Limite=160.0%
+[2026-09-24T14:30:49+00:00] COLETA      CPU= 132.02% Prevista=  132.43% Limite=160.0%
+[2026-09-24T14:30:51.511+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=124.67%  Prevista=117.22%  160 → 140%  (Δ -20.0%)  [Docker: 15.0ms]
+[2026-09-24T14:30:51+00:00] COLETA      CPU= 124.67% Prevista=  117.22% Limite=140.0%
+[2026-09-24T14:30:53+00:00] COLETA      CPU= 124.67% Prevista=  125.12% Limite=140.0%
+[2026-09-24T14:30:55.550+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=108.94%  Prevista=94.43%  140 → 120%  (Δ -20.0%)  [Docker: 15.8ms]
+[2026-09-24T14:30:55+00:00] COLETA      CPU= 108.94% Prevista=   94.43% Limite=120.0%
+[2026-09-24T14:30:57+00:00] COLETA      CPU= 100.10% Prevista=   91.73% Limite=120.0%
+[2026-09-24T14:30:59+00:00] COLETA      CPU=  92.16% Prevista=   84.58% Limite=120.0%
+[2026-09-24T14:31:01.593+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=82.27%  Prevista=72.96%  120 → 100%  (Δ -20.0%)  [Docker: 13.7ms]
+[2026-09-24T14:31:01+00:00] COLETA      CPU=  82.27% Prevista=   72.96% Limite=100.0%
+[2026-09-24T14:31:06.588+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=69.10%  Prevista=57.04%  100 → 80%  (Δ -20.0%)  [Docker: 12.6ms]
+[2026-09-24T14:31:06+00:00] COLETA      CPU=  69.10% Prevista=   57.04% Limite=80.0%
+[2026-09-24T14:31:08+00:00] COLETA      CPU=  65.36% Prevista=   61.50% Limite=80.0%
+[2026-09-24T14:31:10.620+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=49.63%  Prevista=37.21%  80 → 60%  (Δ -20.0%)  [Docker: 14.5ms]
+[2026-09-24T14:31:10+00:00] COLETA      CPU=  49.63% Prevista=   37.21% Limite=60.0%
+[2026-09-24T14:31:12+00:00] COLETA      CPU=  44.77% Prevista=   38.94% Limite=60.0%
+[2026-09-24T14:31:14+00:00] COLETA      CPU=  38.10% Prevista=   32.19% Limite=60.0%
+[2026-09-24T14:31:16.664+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=33.37%  Prevista=28.84%  60 → 40%  (Δ -20.0%)  [Docker: 12.1ms]
+[2026-09-24T14:31:16+00:00] COLETA      CPU=  33.37% Prevista=   28.84% Limite=40.0%
+[2026-09-24T14:31:18+00:00] COLETA      CPU=  28.10% Prevista=   23.38% Limite=40.0%
+[2026-09-24T14:31:20+00:00] COLETA      CPU=  23.61% Prevista=   19.51% Limite=40.0%
+[2026-09-24T14:31:22+00:00] COLETA      CPU=  19.10% Prevista=   15.14% Limite=40.0%
+[2026-09-24T14:31:24.741+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=15.38%  Prevista=12.05%  40 → 20%  (Δ -20.0%)  [Docker: 36.5ms]
+[2026-09-24T14:31:24+00:00] COLETA      CPU=  15.38% Prevista=   12.05% Limite=20.0%
+[2026-09-24T14:31:26+00:00] COLETA      CPU=  12.03% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:31:28+00:00] COLETA      CPU=   9.23% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:31:30+00:00] COLETA      CPU=   6.58% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:31:32+00:00] COLETA      CPU=   4.43% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:31:34+00:00] COLETA      CPU=   2.74% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:31:36+00:00] COLETA      CPU=   1.50% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:31:41+00:00] COLETA      CPU=   0.64% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:31:44+00:00] RECALIB(CPU) Ciclo=200  Nova ordem ARIMA=(1, 2, 2)
+[2026-09-24T14:31:44+00:00] COLETA      CPU=   0.80% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:31:46+00:00] COLETA      CPU=   1.78% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:31:48+00:00] COLETA      CPU=   3.22% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:31:50+00:00] COLETA      CPU=   5.07% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:31:52+00:00] COLETA      CPU=   7.29% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:31:54+00:00] COLETA      CPU=   9.92% Prevista=   12.63% Limite=20.0%
+[2026-09-24T14:31:56+00:00] COLETA      CPU=  13.46% Prevista=   17.11% Limite=20.0%
+[2026-09-24T14:31:58.846+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=16.51%  Prevista=19.91%  20 → 40%  (Δ +20.0%)  [Docker: 52.6ms]
+[2026-09-24T14:31:58+00:00] COLETA      CPU=  16.51% Prevista=   19.91% Limite=40.0%
+[2026-09-24T14:32:00+00:00] COLETA      CPU=  20.40% Prevista=   24.46% Limite=40.0%
+[2026-09-24T14:32:02+00:00] COLETA      CPU=  24.74% Prevista=   29.13% Limite=40.0%
+[2026-09-24T14:32:04+00:00] COLETA      CPU=  29.41% Prevista=   34.30% Limite=40.0%
+[2026-09-24T14:32:07.035+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=34.18%  Prevista=39.23%  40 → 60%  (Δ +20.0%)  [Docker: 40.6ms]
+[2026-09-24T14:32:07+00:00] COLETA      CPU=  34.18% Prevista=   39.23% Limite=60.0%
+[2026-09-24T14:32:09+00:00] COLETA      CPU=  39.62% Prevista=   45.18% Limite=60.0%
+[2026-09-24T14:32:11+00:00] COLETA      CPU=  45.37% Prevista=   51.23% Limite=60.0%
+[2026-09-24T14:32:13.194+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=51.27%  Prevista=57.51%  60 → 80%  (Δ +20.0%)  [Docker: 23.5ms]
+[2026-09-24T14:32:13+00:00] COLETA      CPU=  51.27% Prevista=   57.51% Limite=80.0%
+[2026-09-24T14:32:18+00:00] COLETA      CPU=  58.75% Prevista=   66.10% Limite=80.0%
+[2026-09-24T14:32:20.229+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=69.61%  Prevista=79.24%  80 → 100%  (Δ +20.0%)  [Docker: 20.8ms]
+[2026-09-24T14:32:20+00:00] COLETA      CPU=  69.61% Prevista=   79.24% Limite=100.0%
+[2026-09-24T14:32:22.313+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=85.26%  Prevista=102.78%  100 → 120%  (Δ +20.0%)  [Docker: 20.4ms]
+[2026-09-24T14:32:22+00:00] COLETA      CPU=  85.26% Prevista=  102.78% Limite=120.0%
+[2026-09-24T14:32:24+00:00] COLETA      CPU=  90.12% Prevista=  100.54% Limite=120.0%
+[2026-09-24T14:32:26.461+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=100.21%  Prevista=111.41%  120 → 140%  (Δ +20.0%)  [Docker: 20.0ms]
+[2026-09-24T14:32:26+00:00] COLETA      CPU= 100.21% Prevista=  111.41% Limite=140.0%
+[2026-09-24T14:32:28.546+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=100.88%  Prevista=103.25%  140 → 120%  (Δ -20.0%)  [Docker: 23.6ms]
+[2026-09-24T14:32:28+00:00] COLETA      CPU= 100.88% Prevista=  103.25% Limite=120.0%
+[2026-09-24T14:32:30.657+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=109.46%  Prevista=114.75%  120 → 140%  (Δ +20.0%)  [Docker: 16.0ms]
+[2026-09-24T14:32:30+00:00] COLETA      CPU= 109.46% Prevista=  114.75% Limite=140.0%
+[2026-09-24T14:32:32.747+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=121.76%  Prevista=134.44%  140 → 160%  (Δ +20.0%)  [Docker: 45.7ms]
+[2026-09-24T14:32:32+00:00] COLETA      CPU= 121.76% Prevista=  134.44% Limite=160.0%
+[2026-09-24T14:32:34.846+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=132.67%  Prevista=146.64%  160 → 180%  (Δ +20.0%)  [Docker: 42.1ms]
+[2026-09-24T14:32:34+00:00] COLETA      CPU= 132.67% Prevista=  146.64% Limite=180.0%
+[2026-09-24T14:32:36.955+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=138.66%  Prevista=145.03%  180 → 160%  (Δ -20.0%)  [Docker: 26.1ms]
+[2026-09-24T14:32:36+00:00] COLETA      CPU= 138.66% Prevista=  145.03% Limite=160.0%
+[2026-09-24T14:32:39.064+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=147.34%  Prevista=156.20%  160 → 180%  (Δ +20.0%)  [Docker: 20.2ms]
+[2026-09-24T14:32:39+00:00] COLETA      CPU= 147.34% Prevista=  156.20% Limite=180.0%
+[2026-09-24T14:32:41.161+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=160.23%  Prevista=173.89%  180 → 200%  (Δ +20.0%)  [Docker: 21.9ms]
+[2026-09-24T14:32:41+00:00] COLETA      CPU= 160.23% Prevista=  173.89% Limite=200.0%
+[2026-09-24T14:32:43+00:00] COLETA      CPU= 169.12% Prevista=  177.36% Limite=200.0%
+[2026-09-24T14:32:45.337+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=178.00%  Prevista=187.31%  200 → 220%  (Δ +20.0%)  [Docker: 34.6ms]
+[2026-09-24T14:32:45+00:00] COLETA      CPU= 178.00% Prevista=  187.31% Limite=220.0%
+[2026-09-24T14:32:47+00:00] COLETA      CPU= 185.51% Prevista=  193.32% Limite=220.0%
+[2026-09-24T14:32:52.512+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=195.28%  Prevista=205.43%  220 → 240%  (Δ +20.0%)  [Docker: 18.5ms]
+[2026-09-24T14:32:52+00:00] COLETA      CPU= 195.28% Prevista=  205.43% Limite=240.0%
+[2026-09-24T14:32:54+00:00] COLETA      CPU= 203.76% Prevista=  212.26% Limite=240.0%
+[2026-09-24T14:32:56.763+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=226.61%  Prevista=250.21%  240 → 280%  (Δ +40.0%)  [Docker: 23.6ms]
+[2026-09-24T14:32:56+00:00] COLETA      CPU= 226.61% Prevista=  250.21% Limite=280.0%
+[2026-09-24T14:32:58+00:00] COLETA      CPU= 235.98% Prevista=  244.74% Limite=280.0%
+[2026-09-24T14:33:00+00:00] COLETA      CPU= 243.01% Prevista=  252.23% Limite=280.0%
+[2026-09-24T14:33:03+00:00] COLETA      CPU= 247.42% Prevista=  254.34% Limite=280.0%
+[2026-09-24T14:33:05.240+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=257.17%  Prevista=269.42%  280 → 300%  (Δ +20.0%)  [Docker: 46.6ms]
+[2026-09-24T14:33:05+00:00] COLETA      CPU= 257.17% Prevista=  269.42% Limite=300.0%
+[2026-09-24T14:33:07.399+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=268.20%  Prevista=279.15%  300 → 320%  (Δ +20.0%)  [Docker: 43.8ms]
+[2026-09-24T14:33:07+00:00] COLETA      CPU= 268.20% Prevista=  279.15% Limite=320.0%
+[2026-09-24T14:33:09+00:00] COLETA      CPU= 276.46% Prevista=  285.03% Limite=320.0%
+[2026-09-24T14:33:11+00:00] COLETA      CPU= 279.37% Prevista=  285.43% Limite=320.0%
+[2026-09-24T14:33:13.796+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=288.02%  Prevista=300.91%  320 → 340%  (Δ +20.0%)  [Docker: 28.2ms]
+[2026-09-24T14:33:13+00:00] COLETA      CPU= 288.02% Prevista=  300.91% Limite=340.0%
+[2026-09-24T14:33:15+00:00] COLETA      CPU= 295.25% Prevista=  304.42% Limite=340.0%
+[2026-09-24T14:33:17.959+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=303.13%  Prevista=313.58%  340 → 360%  (Δ +20.0%)  [Docker: 18.2ms]
+[2026-09-24T14:33:17+00:00] COLETA      CPU= 303.13% Prevista=  313.58% Limite=360.0%
+[2026-09-24T14:33:20+00:00] COLETA      CPU= 310.61% Prevista=  320.53% Limite=360.0%
+[2026-09-24T14:33:22+00:00] COLETA      CPU= 316.66% Prevista=  324.78% Limite=360.0%
+[2026-09-24T14:33:24+00:00] COLETA      CPU= 313.43% Prevista=  314.28% Limite=360.0%
+[2026-09-24T14:33:29.207+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=322.35%  Prevista=335.58%  360 → 380%  (Δ +20.0%)  [Docker: 23.3ms]
+[2026-09-24T14:33:29+00:00] COLETA      CPU= 322.35% Prevista=  335.58% Limite=380.0%
+[2026-09-24T14:33:31+00:00] COLETA      CPU= 334.35% Prevista=  344.38% Limite=380.0%
+[2026-09-24T14:33:33+00:00] COLETA      CPU= 327.52% Prevista=  323.51% Limite=380.0%
+[2026-09-24T14:33:35+00:00] COLETA      CPU= 331.90% Prevista=  342.47% Limite=380.0%
+[2026-09-24T14:33:37+00:00] RECALIB(CPU) Ciclo=250  Nova ordem ARIMA=(0, 2, 1)
+[2026-09-24T14:33:37.748+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=341.43%  Prevista=349.83%  380 → 400%  (Δ +20.0%)  [Docker: 39.7ms]
+[2026-09-24T14:33:37+00:00] COLETA      CPU= 341.43% Prevista=  349.83% Limite=400.0%
+[2026-09-24T14:33:39+00:00] COLETA      CPU= 345.80% Prevista=  348.69% Limite=400.0%
+[2026-09-24T14:33:41.941+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=342.79%  Prevista=342.77%  400 → 380%  (Δ -20.0%)  [Docker: 71.1ms]
+[2026-09-24T14:33:41+00:00] COLETA      CPU= 342.79% Prevista=  342.77% Limite=380.0%
+[2026-09-24T14:33:44.033+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=344.31%  Prevista=349.67%  380 → 400%  (Δ +20.0%)  [Docker: 76.3ms]
+[2026-09-24T14:33:44+00:00] COLETA      CPU= 344.31% Prevista=  349.67% Limite=400.0%
+[2026-09-24T14:33:46.154+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=343.94%  Prevista=345.24%  400 → 380%  (Δ -20.0%)  [Docker: 75.0ms]
+[2026-09-24T14:33:46+00:00] COLETA      CPU= 343.94% Prevista=  345.24% Limite=380.0%
+[2026-09-24T14:33:48+00:00] COLETA      CPU= 337.51% Prevista=  334.84% Limite=380.0%
+[2026-09-24T14:33:50.256+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=348.60%  Prevista=360.41%  380 → 400%  (Δ +20.0%)  [Docker: 65.0ms]
+[2026-09-24T14:33:50+00:00] COLETA      CPU= 348.60% Prevista=  360.41% Limite=400.0%
+[2026-09-24T14:33:52.285+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=344.33%  Prevista=338.03%  400 → 380%  (Δ -20.0%)  [Docker: 16.3ms]
+[2026-09-24T14:33:52+00:00] COLETA      CPU= 344.33% Prevista=  338.03% Limite=380.0%
+[2026-09-24T14:33:54.313+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=345.71%  Prevista=349.85%  380 → 400%  (Δ +20.0%)  [Docker: 14.1ms]
+[2026-09-24T14:33:54+00:00] COLETA      CPU= 345.71% Prevista=  349.85% Limite=400.0%
+[2026-09-24T14:33:56.401+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=345.11%  Prevista=344.88%  400 → 380%  (Δ -20.0%)  [Docker: 68.4ms]
+[2026-09-24T14:33:56+00:00] COLETA      CPU= 345.11% Prevista=  344.88% Limite=380.0%
+[2026-09-24T14:33:58+00:00] COLETA      CPU= 338.37% Prevista=  334.23% Limite=380.0%
+[2026-09-24T14:34:03+00:00] COLETA      CPU= 338.37% Prevista=  340.98% Limite=380.0%
+[2026-09-24T14:34:05+00:00] COLETA      CPU= 335.58% Prevista=  332.96% Limite=380.0%
+[2026-09-24T14:34:07.576+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=326.28%  Prevista=319.75%  380 → 360%  (Δ -20.0%)  [Docker: 15.6ms]
+[2026-09-24T14:34:07+00:00] COLETA      CPU= 326.28% Prevista=  319.75% Limite=360.0%
+[2026-09-24T14:34:09+00:00] COLETA      CPU= 321.25% Prevista=  319.55% Limite=360.0%
+[2026-09-24T14:34:11+00:00] COLETA      CPU= 315.92% Prevista=  311.62% Limite=360.0%
+[2026-09-24T14:34:13.723+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=302.23%  Prevista=291.41%  360 → 340%  (Δ -20.0%)  [Docker: 44.9ms]
+[2026-09-24T14:34:13+00:00] COLETA      CPU= 302.23% Prevista=  291.41% Limite=340.0%
+[2026-09-24T14:34:15+00:00] COLETA      CPU= 295.21% Prevista=  291.64% Limite=340.0%
+[2026-09-24T14:34:17.821+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=286.78%  Prevista=278.87%  340 → 320%  (Δ -20.0%)  [Docker: 64.6ms]
+[2026-09-24T14:34:17+00:00] COLETA      CPU= 286.78% Prevista=  278.87% Limite=320.0%
+[2026-09-24T14:34:19.899+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=291.15%  Prevista=293.49%  320 → 340%  (Δ +20.0%)  [Docker: 29.1ms]
+[2026-09-24T14:34:19+00:00] COLETA      CPU= 291.15% Prevista=  293.49% Limite=340.0%
+[2026-09-24T14:34:21.957+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=285.10%  Prevista=275.47%  340 → 320%  (Δ -20.0%)  [Docker: 35.4ms]
+[2026-09-24T14:34:21+00:00] COLETA      CPU= 285.10% Prevista=  275.47% Limite=320.0%
+[2026-09-24T14:34:23+00:00] COLETA      CPU= 277.65% Prevista=  271.73% Limite=320.0%
+[2026-09-24T14:34:26+00:00] COLETA      CPU= 277.65% Prevista=  277.42% Limite=320.0%
+[2026-09-24T14:34:28.140+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=268.08%  Prevista=258.21%  320 → 300%  (Δ -20.0%)  [Docker: 59.5ms]
+[2026-09-24T14:34:28+00:00] COLETA      CPU= 268.08% Prevista=  258.21% Limite=300.0%
+[2026-09-24T14:34:30+00:00] COLETA      CPU= 259.15% Prevista=  253.34% Limite=300.0%
+[2026-09-24T14:34:32.200+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=246.52%  Prevista=237.05%  300 → 280%  (Δ -20.0%)  [Docker: 26.5ms]
+[2026-09-24T14:34:32+00:00] COLETA      CPU= 246.52% Prevista=  237.05% Limite=280.0%
+[2026-09-24T14:34:34.256+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=228.18%  Prevista=214.78%  280 → 260%  (Δ -20.0%)  [Docker: 38.2ms]
+[2026-09-24T14:34:34+00:00] COLETA      CPU= 228.18% Prevista=  214.78% Limite=260.0%
+[2026-09-24T14:34:39+00:00] COLETA      CPU= 230.18% Prevista=  233.30% Limite=260.0%
+[2026-09-24T14:34:41.315+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=198.92%  Prevista=171.56%  260 → 220%  (Δ -40.0%)  [Docker: 51.5ms]
+[2026-09-24T14:34:41+00:00] COLETA      CPU= 198.92% Prevista=  171.56% Limite=220.0%
+[2026-09-24T14:34:43+00:00] COLETA      CPU= 191.24% Prevista=  191.54% Limite=220.0%
+[2026-09-24T14:34:45+00:00] COLETA      CPU= 185.17% Prevista=  176.65% Limite=220.0%
+[2026-09-24T14:34:47.402+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=177.91%  Prevista=168.67%  220 → 200%  (Δ -20.0%)  [Docker: 38.1ms]
+[2026-09-24T14:34:47+00:00] COLETA      CPU= 177.91% Prevista=  168.67% Limite=200.0%
+[2026-09-24T14:34:49+00:00] COLETA      CPU= 170.18% Prevista=  161.66% Limite=200.0%
+[2026-09-24T14:34:51+00:00] COLETA      CPU= 170.18% Prevista=  167.32% Limite=200.0%
+[2026-09-24T14:34:53.691+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=154.56%  Prevista=139.23%  200 → 180%  (Δ -20.0%)  [Docker: 65.5ms]
+[2026-09-24T14:34:53+00:00] COLETA      CPU= 154.56% Prevista=  139.23% Limite=180.0%
+[2026-09-24T14:34:55.721+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=143.92%  Prevista=137.82%  180 → 160%  (Δ -20.0%)  [Docker: 18.2ms]
+[2026-09-24T14:34:55+00:00] COLETA      CPU= 143.92% Prevista=  137.82% Limite=160.0%
+[2026-09-24T14:34:57+00:00] COLETA      CPU= 138.99% Prevista=  134.23% Limite=160.0%
+[2026-09-24T14:34:59+00:00] COLETA      CPU= 130.77% Prevista=  121.79% Limite=160.0%
+[2026-09-24T14:35:01.845+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=107.76%  Prevista=91.33%  160 → 120%  (Δ -40.0%)  [Docker: 60.7ms]
+[2026-09-24T14:35:01+00:00] COLETA      CPU= 107.76% Prevista=   91.33% Limite=120.0%
+[2026-09-24T14:35:03.906+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=109.76%  Prevista=114.52%  120 → 140%  (Δ +20.0%)  [Docker: 26.7ms]
+[2026-09-24T14:35:03+00:00] COLETA      CPU= 109.76% Prevista=  114.52% Limite=140.0%
+[2026-09-24T14:35:05.958+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=97.12%  Prevista=82.89%  140 → 120%  (Δ -20.0%)  [Docker: 37.6ms]
+[2026-09-24T14:35:05+00:00] COLETA      CPU=  97.12% Prevista=   82.89% Limite=120.0%
+[2026-09-24T14:35:07+00:00] COLETA      CPU=  91.77% Prevista=   87.98% Limite=120.0%
+[2026-09-24T14:35:10.045+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=84.44%  Prevista=76.69%  120 → 100%  (Δ -20.0%)  [Docker: 45.6ms]
+[2026-09-24T14:35:10+00:00] COLETA      CPU=  84.44% Prevista=   76.69% Limite=100.0%
+[2026-09-24T14:35:14+00:00] COLETA      CPU=  79.10% Prevista=   73.61% Limite=100.0%
+[2026-09-24T14:35:17.036+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=60.26%  Prevista=47.03%  100 → 80%  (Δ -20.0%)  [Docker: 38.9ms]
+[2026-09-24T14:35:17+00:00] COLETA      CPU=  60.26% Prevista=   47.03% Limite=80.0%
+[2026-09-24T14:35:19+00:00] COLETA      CPU=  54.56% Prevista=   53.41% Limite=80.0%
+[2026-09-24T14:35:21.098+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=44.48%  Prevista=35.99%  80 → 60%  (Δ -20.0%)  [Docker: 31.2ms]
+[2026-09-24T14:35:21+00:00] COLETA      CPU=  44.48% Prevista=   35.99% Limite=60.0%
+[2026-09-24T14:35:23+00:00] COLETA      CPU=  38.88% Prevista=   34.72% Limite=60.0%
+[2026-09-24T14:35:25.188+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=33.46%  Prevista=28.11%  60 → 40%  (Δ -20.0%)  [Docker: 54.9ms]
+[2026-09-24T14:35:25+00:00] COLETA      CPU=  33.46% Prevista=   28.11% Limite=40.0%
+[2026-09-24T14:35:27+00:00] COLETA      CPU=  33.46% Prevista=   31.37% Limite=40.0%
+[2026-09-24T14:35:29+00:00] RECALIB(CPU) Ciclo=300  Nova ordem ARIMA=(1, 2, 1)
+[2026-09-24T14:35:29+00:00] COLETA      CPU=  30.13% Prevista=   23.05% Limite=40.0%
+[2026-09-24T14:35:31+00:00] COLETA      CPU=  22.19% Prevista=   16.12% Limite=40.0%
+[2026-09-24T14:35:33.706+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=18.08%  Prevista=14.88%  40 → 20%  (Δ -20.0%)  [Docker: 15.8ms]
+[2026-09-24T14:35:33+00:00] COLETA      CPU=  18.08% Prevista=   14.88% Limite=20.0%
+[2026-09-24T14:35:35+00:00] COLETA      CPU=  14.26% Prevista=   10.05% Limite=20.0%
+[2026-09-24T14:35:37+00:00] COLETA      CPU=  11.04% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:35:39+00:00] COLETA      CPU=   8.00% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:35:41+00:00] COLETA      CPU=   5.66% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:35:43+00:00] COLETA      CPU=   3.78% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:35:48+00:00] COLETA      CPU=   1.63% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:35:50+00:00] COLETA      CPU=   0.65% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:35:53+00:00] COLETA      CPU=   0.43% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:35:55+00:00] COLETA      CPU=   1.10% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:35:57+00:00] COLETA      CPU=   2.26% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:35:59+00:00] COLETA      CPU=   3.79% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:36:01+00:00] COLETA      CPU=   5.79% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:36:03+00:00] COLETA      CPU=   8.15% Prevista=   10.00% Limite=20.0%
+[2026-09-24T14:36:05+00:00] COLETA      CPU=  10.84% Prevista=   13.32% Limite=20.0%
+[2026-09-24T14:36:07+00:00] COLETA      CPU=  14.05% Prevista=   17.17% Limite=20.0%
+[2026-09-24T14:36:09.173+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=17.97%  Prevista=21.72%  20 → 40%  (Δ +20.0%)  [Docker: 28.6ms]
+[2026-09-24T14:36:09+00:00] COLETA      CPU=  17.97% Prevista=   21.72% Limite=40.0%
+[2026-09-24T14:36:11+00:00] COLETA      CPU=  21.99% Prevista=   25.95% Limite=40.0%
+[2026-09-24T14:36:13+00:00] COLETA      CPU=  21.99% Prevista=   23.50% Limite=40.0%
+[2026-09-24T14:36:15.262+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=33.39%  Prevista=42.42%  40 → 60%  (Δ +20.0%)  [Docker: 42.1ms]
+[2026-09-24T14:36:15+00:00] COLETA      CPU=  33.39% Prevista=   42.42% Limite=60.0%
+[2026-09-24T14:36:17+00:00] COLETA      CPU=  38.90% Prevista=   42.65% Limite=60.0%
+[2026-09-24T14:36:19+00:00] COLETA      CPU=  44.65% Prevista=   51.56% Limite=60.0%
+[2026-09-24T14:36:24.307+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=50.80%  Prevista=57.62%  60 → 80%  (Δ +20.0%)  [Docker: 31.8ms]
+[2026-09-24T14:36:24+00:00] COLETA      CPU=  50.80% Prevista=   57.62% Limite=80.0%
+[2026-09-24T14:36:26.393+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=50.80%  Prevista=53.41%  80 → 60%  (Δ -20.0%)  [Docker: 38.7ms]
+[2026-09-24T14:36:26+00:00] COLETA      CPU=  50.80% Prevista=   53.41% Limite=60.0%
+[2026-09-24T14:36:28.519+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=67.24%  Prevista=78.51%  60 → 100%  (Δ +40.0%)  [Docker: 76.7ms]
+[2026-09-24T14:36:28+00:00] COLETA      CPU=  67.24% Prevista=   78.51% Limite=100.0%
+[2026-09-24T14:36:30.606+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=60.44%  Prevista=60.93%  100 → 80%  (Δ -20.0%)  [Docker: 26.5ms]
+[2026-09-24T14:36:30+00:00] COLETA      CPU=  60.44% Prevista=   60.93% Limite=80.0%
+[2026-09-24T14:36:32.701+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=81.26%  Prevista=93.29%  80 → 120%  (Δ +40.0%)  [Docker: 69.8ms]
+[2026-09-24T14:36:32+00:00] COLETA      CPU=  81.26% Prevista=   93.29% Limite=120.0%
+[2026-09-24T14:36:34.729+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=78.06%  Prevista=81.79%  120 → 100%  (Δ -20.0%)  [Docker: 16.2ms]
+[2026-09-24T14:36:34+00:00] COLETA      CPU=  78.06% Prevista=   81.79% Limite=100.0%
+[2026-09-24T14:36:36.803+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=99.66%  Prevista=112.86%  100 → 140%  (Δ +40.0%)  [Docker: 55.2ms]
+[2026-09-24T14:36:36+00:00] COLETA      CPU=  99.66% Prevista=  112.86% Limite=140.0%
+[2026-09-24T14:36:38.856+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=97.22%  Prevista=104.73%  140 → 120%  (Δ -20.0%)  [Docker: 33.6ms]
+[2026-09-24T14:36:38+00:00] COLETA      CPU=  97.22% Prevista=  104.73% Limite=120.0%
+[2026-09-24T14:36:40.934+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=116.20%  Prevista=127.80%  120 → 160%  (Δ +40.0%)  [Docker: 58.8ms]
+[2026-09-24T14:36:40+00:00] COLETA      CPU= 116.20% Prevista=  127.80% Limite=160.0%
+[2026-09-24T14:36:42+00:00] COLETA      CPU= 120.02% Prevista=  128.59% Limite=160.0%
+[2026-09-24T14:36:44+00:00] COLETA      CPU= 133.11% Prevista=  144.58% Limite=160.0%
+[2026-09-24T14:36:47.031+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=142.85%  Prevista=152.94%  160 → 180%  (Δ +20.0%)  [Docker: 32.0ms]
+[2026-09-24T14:36:47+00:00] COLETA      CPU= 142.85% Prevista=  152.94% Limite=180.0%
+[2026-09-24T14:36:49+00:00] COLETA      CPU= 151.68% Prevista=  162.19% Limite=180.0%
+[2026-09-24T14:36:51.101+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=158.41%  Prevista=167.50%  180 → 200%  (Δ +20.0%)  [Docker: 34.8ms]
+[2026-09-24T14:36:51+00:00] COLETA      CPU= 158.41% Prevista=  167.50% Limite=200.0%
+[2026-09-24T14:36:53+00:00] COLETA      CPU= 171.42% Prevista=  181.54% Limite=200.0%
+[2026-09-24T14:36:55.174+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=176.42%  Prevista=185.12%  200 → 220%  (Δ +20.0%)  [Docker: 38.9ms]
+[2026-09-24T14:36:55+00:00] COLETA      CPU= 176.42% Prevista=  185.12% Limite=220.0%
+[2026-09-24T14:37:00+00:00] COLETA      CPU= 189.18% Prevista=  199.42% Limite=220.0%
+[2026-09-24T14:37:02.174+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=199.12%  Prevista=209.10%  220 → 240%  (Δ +20.0%)  [Docker: 53.6ms]
+[2026-09-24T14:37:02+00:00] COLETA      CPU= 199.12% Prevista=  209.10% Limite=240.0%
+[2026-09-24T14:37:04.261+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=211.67%  Prevista=223.23%  240 → 260%  (Δ +20.0%)  [Docker: 57.9ms]
+[2026-09-24T14:37:04+00:00] COLETA      CPU= 211.67% Prevista=  223.23% Limite=260.0%
+[2026-09-24T14:37:06.351+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=225.08%  Prevista=237.46%  260 → 280%  (Δ +20.0%)  [Docker: 38.1ms]
+[2026-09-24T14:37:06+00:00] COLETA      CPU= 225.08% Prevista=  237.46% Limite=280.0%
+[2026-09-24T14:37:08+00:00] COLETA      CPU= 239.12% Prevista=  252.61% Limite=280.0%
+[2026-09-24T14:37:10+00:00] COLETA      CPU= 239.12% Prevista=  248.84% Limite=280.0%
+[2026-09-24T14:37:12.778+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=261.39%  Prevista=274.21%  280 → 320%  (Δ +40.0%)  [Docker: 231.1ms]
+[2026-09-24T14:37:12+00:00] COLETA      CPU= 261.39% Prevista=  274.21% Limite=320.0%
+[2026-09-24T14:37:14.876+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=254.76%  Prevista=263.40%  320 → 300%  (Δ -20.0%)  [Docker: 64.9ms]
+[2026-09-24T14:37:14+00:00] COLETA      CPU= 254.76% Prevista=  263.40% Limite=300.0%
+[2026-09-24T14:37:17.050+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=261.10%  Prevista=273.35%  300 → 320%  (Δ +20.0%)  [Docker: 67.4ms]
+[2026-09-24T14:37:17+00:00] COLETA      CPU= 261.10% Prevista=  273.35% Limite=320.0%
+[2026-09-24T14:37:19+00:00] COLETA      CPU= 276.99% Prevista=  285.15% Limite=320.0%
+[2026-09-24T14:37:22+00:00] RECALIB(CPU) Ciclo=350  Nova ordem ARIMA=(1, 2, 1)
+[2026-09-24T14:37:22+00:00] COLETA      CPU= 280.83% Prevista=  289.30% Limite=320.0%
+[2026-09-24T14:37:24.190+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=286.27%  Prevista=298.43%  320 → 340%  (Δ +20.0%)  [Docker: 20.7ms]
+[2026-09-24T14:37:24+00:00] COLETA      CPU= 286.27% Prevista=  298.43% Limite=340.0%
+[2026-09-24T14:37:26+00:00] COLETA      CPU= 298.49% Prevista=  308.35% Limite=340.0%
+[2026-09-24T14:37:28.384+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=301.97%  Prevista=310.34%  340 → 360%  (Δ +20.0%)  [Docker: 50.4ms]
+[2026-09-24T14:37:28+00:00] COLETA      CPU= 301.97% Prevista=  310.34% Limite=360.0%
+[2026-09-24T14:37:30+00:00] COLETA      CPU= 312.94% Prevista=  323.42% Limite=360.0%
+[2026-09-24T14:37:35+00:00] COLETA      CPU= 314.68% Prevista=  322.93% Limite=360.0%
+[2026-09-24T14:37:37+00:00] COLETA      CPU= 306.17% Prevista=  316.08% Limite=360.0%
+[2026-09-24T14:37:39.621+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=332.78%  Prevista=341.44%  360 → 380%  (Δ +20.0%)  [Docker: 41.0ms]
+[2026-09-24T14:37:39+00:00] COLETA      CPU= 332.78% Prevista=  341.44% Limite=380.0%
+[2026-09-24T14:37:41+00:00] COLETA      CPU= 333.95% Prevista=  334.61% Limite=380.0%
+[2026-09-24T14:37:43+00:00] COLETA      CPU= 334.23% Prevista=  344.88% Limite=380.0%
+[2026-09-24T14:37:45.877+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=337.72%  Prevista=345.98%  380 → 400%  (Δ +20.0%)  [Docker: 27.0ms]
+[2026-09-24T14:37:45+00:00] COLETA      CPU= 337.72% Prevista=  345.98% Limite=400.0%
+[2026-09-24T14:37:48.040+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=336.74%  Prevista=342.56%  400 → 380%  (Δ -20.0%)  [Docker: 65.2ms]
+[2026-09-24T14:37:48+00:00] COLETA      CPU= 336.74% Prevista=  342.56% Limite=380.0%
+[2026-09-24T14:37:50.387+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=340.47%  Prevista=345.77%  380 → 400%  (Δ +20.0%)  [Docker: 247.7ms]
+[2026-09-24T14:37:50+00:00] COLETA      CPU= 340.47% Prevista=  345.77% Limite=400.0%
+[2026-09-24T14:37:52.682+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=340.47%  Prevista=343.62%  400 → 380%  (Δ -20.0%)  [Docker: 112.9ms]
+[2026-09-24T14:37:52+00:00] COLETA      CPU= 340.47% Prevista=  343.62% Limite=380.0%
+[2026-09-24T14:37:54.920+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=343.50%  Prevista=346.85%  380 → 400%  (Δ +20.0%)  [Docker: 103.8ms]
+[2026-09-24T14:37:54+00:00] COLETA      CPU= 343.50% Prevista=  346.85% Limite=400.0%
+[2026-09-24T14:37:56+00:00] COLETA      CPU= 348.17% Prevista=  350.25% Limite=400.0%
+[2026-09-24T14:37:59+00:00] COLETA      CPU= 345.77% Prevista=  348.20% Limite=400.0%
+[2026-09-24T14:38:01.215+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=341.61%  Prevista=344.80%  400 → 380%  (Δ -20.0%)  [Docker: 42.6ms]
+[2026-09-24T14:38:01+00:00] COLETA      CPU= 341.61% Prevista=  344.80% Limite=380.0%
+[2026-09-24T14:38:03.309+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=346.13%  Prevista=348.31%  380 → 400%  (Δ +20.0%)  [Docker: 21.1ms]
+[2026-09-24T14:38:03+00:00] COLETA      CPU= 346.13% Prevista=  348.31% Limite=400.0%
+[2026-09-24T14:38:05.404+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=338.58%  Prevista=336.79%  400 → 380%  (Δ -20.0%)  [Docker: 55.8ms]
+[2026-09-24T14:38:05+00:00] COLETA      CPU= 338.58% Prevista=  336.79% Limite=380.0%
+[2026-09-24T14:38:10+00:00] COLETA      CPU= 329.54% Prevista=  328.81% Limite=380.0%
+[2026-09-24T14:38:12.537+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=323.23%  Prevista=321.21%  380 → 360%  (Δ -20.0%)  [Docker: 69.1ms]
+[2026-09-24T14:38:12+00:00] COLETA      CPU= 323.23% Prevista=  321.21% Limite=360.0%
+[2026-09-24T14:38:14.642+00:00] ESCALA(CPU) ↑ AUMENTOU  Atual=329.46%  Prevista=330.07%  360 → 380%  (Δ +20.0%)  [Docker: 47.1ms]
+[2026-09-24T14:38:14+00:00] COLETA      CPU= 329.46% Prevista=  330.07% Limite=380.0%
+[2026-09-24T14:38:16.766+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=324.82%  Prevista=318.65%  380 → 360%  (Δ -20.0%)  [Docker: 67.5ms]
+[2026-09-24T14:38:16+00:00] COLETA      CPU= 324.82% Prevista=  318.65% Limite=360.0%
+[2026-09-24T14:38:18+00:00] COLETA      CPU= 320.98% Prevista=  319.42% Limite=360.0%
+[2026-09-24T14:38:20+00:00] COLETA      CPU= 313.21% Prevista=  309.32% Limite=360.0%
+[2026-09-24T14:38:22+00:00] COLETA      CPU= 313.21% Prevista=  312.45% Limite=360.0%
+[2026-09-24T14:38:24.950+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=308.34%  Prevista=303.31%  360 → 340%  (Δ -20.0%)  [Docker: 14.1ms]
+[2026-09-24T14:38:24+00:00] COLETA      CPU= 308.34% Prevista=  303.31% Limite=340.0%
+[2026-09-24T14:38:26+00:00] COLETA      CPU= 296.87% Prevista=  291.07% Limite=340.0%
+[2026-09-24T14:38:29+00:00] COLETA      CPU= 296.87% Prevista=  296.27% Limite=340.0%
+[2026-09-24T14:38:31.064+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=277.60%  Prevista=267.86%  340 → 320%  (Δ -20.0%)  [Docker: 34.0ms]
+[2026-09-24T14:38:31+00:00] COLETA      CPU= 277.60% Prevista=  267.86% Limite=320.0%
+[2026-09-24T14:38:33+00:00] COLETA      CPU= 277.60% Prevista=  277.55% Limite=320.0%
+[2026-09-24T14:38:35+00:00] COLETA      CPU= 275.05% Prevista=  267.49% Limite=320.0%
+[2026-09-24T14:38:37.299+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=262.81%  Prevista=254.72%  320 → 300%  (Δ -20.0%)  [Docker: 16.0ms]
+[2026-09-24T14:38:37+00:00] COLETA      CPU= 262.81% Prevista=  254.72% Limite=300.0%
+[2026-09-24T14:38:39+00:00] COLETA      CPU= 256.56% Prevista=  252.83% Limite=300.0%
+[2026-09-24T14:38:41.430+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=245.81%  Prevista=237.66%  300 → 280%  (Δ -20.0%)  [Docker: 70.6ms]
+[2026-09-24T14:38:41+00:00] COLETA      CPU= 245.81% Prevista=  237.66% Limite=280.0%
+[2026-09-24T14:38:46.432+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=235.11%  Prevista=227.78%  280 → 260%  (Δ -20.0%)  [Docker: 58.0ms]
+[2026-09-24T14:38:46+00:00] COLETA      CPU= 235.11% Prevista=  227.78% Limite=260.0%
+[2026-09-24T14:38:48.460+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=210.41%  Prevista=195.96%  260 → 240%  (Δ -20.0%)  [Docker: 13.7ms]
+[2026-09-24T14:38:48+00:00] COLETA      CPU= 210.41% Prevista=  195.96% Limite=240.0%
+[2026-09-24T14:38:50+00:00] COLETA      CPU= 210.41% Prevista=  208.43% Limite=240.0%
+[2026-09-24T14:38:52+00:00] COLETA      CPU= 203.85% Prevista=  191.96% Limite=240.0%
+[2026-09-24T14:38:54.672+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=187.74%  Prevista=176.00%  240 → 220%  (Δ -20.0%)  [Docker: 16.2ms]
+[2026-09-24T14:38:54+00:00] COLETA      CPU= 187.74% Prevista=  176.00% Limite=220.0%
+[2026-09-24T14:38:56+00:00] COLETA      CPU= 183.17% Prevista=  178.54% Limite=220.0%
+[2026-09-24T14:38:58.766+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=171.80%  Prevista=160.81%  220 → 200%  (Δ -20.0%)  [Docker: 36.5ms]
+[2026-09-24T14:38:58+00:00] COLETA      CPU= 171.80% Prevista=  160.81% Limite=200.0%
+[2026-09-24T14:39:00+00:00] COLETA      CPU= 171.80% Prevista=  167.58% Limite=200.0%
+[2026-09-24T14:39:03.020+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=159.27%  Prevista=148.23%  200 → 180%  (Δ -20.0%)  [Docker: 28.9ms]
+[2026-09-24T14:39:03+00:00] COLETA      CPU= 159.27% Prevista=  148.23% Limite=180.0%
+[2026-09-24T14:39:05.128+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=143.54%  Prevista=134.65%  180 → 160%  (Δ -20.0%)  [Docker: 47.5ms]
+[2026-09-24T14:39:05+00:00] COLETA      CPU= 143.54% Prevista=  134.65% Limite=160.0%
+[2026-09-24T14:39:07+00:00] COLETA      CPU= 139.82% Prevista=  135.77% Limite=160.0%
+[2026-09-24T14:39:09+00:00] COLETA      CPU= 131.21% Prevista=  121.42% Limite=160.0%
+[2026-09-24T14:39:12.349+00:00] ESCALA(CPU) ↓ REDUZIU   Atual=119.70%  Prevista=111.09%  160 → 140%  (Δ -20.0%)  [Docker: 153.5ms]
+[2026-09-24T14:39:12+00:00] COLETA      CPU= 119.70% Prevista=  111.09% Limite=140.0%
+[2026-09-24T14:39:14+00:00] COLETA      CPU= 110.75% Prevista=  103.84% Limite=140.0%
+[2026-09-24T14:39:23+00:00] RECALIB(CPU) Ciclo=400  Nova ordem ARIMA=(2, 2, 2)
+[2026-09-24T14:39:23+00:00] ERRO        Falha ao aplicar limite CPU 120.0%
+[2026-09-24T14:39:23+00:00] COLETA      CPU=  98.25% Prevista=   88.20% Limite=140.0%
+[2026-09-24T14:39:33+00:00] ERRO        Container 'carga-cpu' não visto após 5 tentativas. Encerrando thread.
+
+================================================================================
+  SESSÃO ENCERRADA  2026-09-24T14:39:33+00:00
+  Duração: 905s | Coletas: 399 | Erros: 2
+================================================================================

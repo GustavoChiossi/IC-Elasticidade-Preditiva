@@ -1,0 +1,9 @@
+docker
+glances
+statsmodels
+pmdarima
+scipy
+pandas
+numpy
+matplotlib
+psutil

@@ -1,0 +1,29 @@
+====================================================================
+  RELATÓRIO DE MÉTRICAS — CONTROLADOR PREDITIVO DE ELASTICIDADE
+====================================================================
+  Arquivo de origem : /home/gustavo/faculdade/ic/elasticidade-preditiva/controlador/logs/carga-ram/ts_20260924_112428.jsonl
+  Gerado em         : 2026-09-24T11:39:35
+  Duração da sessão : 890.0s
+
+--------------------------------------------------------------------
+  [ MEMÓRIA RAM ]
+--------------------------------------------------------------------
+
+  Erro de previsão:
+    -- Todas as amostras (304 pares previsão→real) --
+    SMAPE           : 4.515 %
+    MAE             : 11.032 MB
+    RMSE            : 20.080 MB
+    Mediana erro abs: 5.595 MB
+
+  Provisionamento de recursos:
+    Over-provisioning médio : 148.15 MB (em 379 de 379 ciclos)
+    Under-provisioning médio: 0.00 MB (em 0 de 379 ciclos)
+
+  Latência de escala (Docker):
+    Média: 24.70ms  Mín: 12.59ms  Máx: 67.91ms  (n=113)
+
+  Recalibrações do modelo:
+    Total: 7  Intervalo médio: 117.2s
+
+====================================================================
